@@ -1,0 +1,19 @@
+Align                 markdown                         
+CSApprox              matchit                          
+ZoomWin               nerdcommenter                    
+ack                   nerdtree                         
+bufexplorer           projector_mode                   
+coffeescript          ragtag                           
+ctrlp.vim             rails                            
+endwise               rake                             
+html5                 repeat                
+selecta    
+supertab   
+surround   vim-colors-solarized
+switch     vim-gitgutter
+syntastic  vim-haml
+tabular    vim-less
+tagbar     vim-misc
+vim-abolishvim-powerline-develop
+vim-bundlervim-ruby
+vim-ruby-refactoring
